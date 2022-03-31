@@ -1,3 +1,4 @@
+
 /********** 1.
 List the teachers who have NULL for their department.
 You might think that the phrase dept=NULL would work here

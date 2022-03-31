@@ -1,3 +1,4 @@
+
 /********** 1.
 Show the lastName, party and votes for the constituency 'S14000024' in 2017. */
 
